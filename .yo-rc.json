@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.fisglobal.softbroker.microservices.sbeventhub"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "sbEventHub",
+    "packageName": "com.fisglobal.softbroker.microservices.sbeventhub",
+    "packageFolder": "com/fisglobal/softbroker/microservices/sbeventhub",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGFkYTgwNWMyYWJhMDhkYTY3ZTg2MWEzMTI2NzVhYjc5YTRlOGRhZTMwOThlZDE0M2M0NzYzZjAwZWNkNTU2NmRhODY4MjY0MzZlNjFkNTA2ZmM2MzY0MmI5NTQ3NWEyOTlhNzNmN2ViZjhiMzU4ZTMwNmM4MDIyY2JkODA4MDg=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1613983655594,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true
+  }
+}
